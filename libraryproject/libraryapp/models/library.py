@@ -7,7 +7,7 @@ class Library (models.Model):
     address = models.CharField(max_length=50)
 
     class Meta:
-        verbose_name = ("library ")
+        verbose_name = ("library")
         verbose_name_plural = ("libraries")
 
     def __str__(self):

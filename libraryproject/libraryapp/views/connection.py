@@ -1,2 +1,2 @@
 class Connection:
-    db_path = "/absolute/path/to/library-management/libraryproject/db.sqlite3"
+    db_path = "/home/chase/backend/workspace/python/library-management/libraryproject/db.sqlite3"
